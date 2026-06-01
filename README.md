@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello, My name is Shashikala Gupta and I’m an aspiring AI engineer with a strong foundation in Python, data structures & algorithms, and cloud fundamentals. I actively build real-world experience through hackathons, workshops, and certification programs.<br><br>Over the past year, I’ve participated in multiple national and international hackathons, working with teams like Sirius Sparks and Divine DevOps to design prototypes, pitch ideas, and deliver working solutions under tight timelines.<br><br>I’ve completed industry-recognized training including Oracle Cloud Infrastructure AI Foundations, along with DSA and Generative AI workshops. Currently, I’m focused on improving my end-to-end skills—from data and model development to cloud deployment and clear technical presentations.<br><br>I’m especially interested in AI applications for automation, assistive tools, and socially impactful technology, and I’m open to internships, entry-level roles, and collaborative projects where I can learn fast and contribute meaningfully.
+I'm Shashikala Gupta, a Data Science student and aspiring AI Engineer who enjoys building intelligent systems from idea to deployment.
+
+Whether it's training machine learning models, developing AI-powered applications, or creating tools that solve practical challenges, I learn best by building. My projects span agriculture, healthcare, and automation, reflecting my interest in using technology to create measurable real-world impact.
+
+I believe the best way to understand a technology is to apply it. That's why I spend much of my time working on projects, participating in hackathons, exploring new AI tools, and continuously improving my development skills.
+
+My goal is simple: keep learning, keep building, and contribute to technologies that help people solve meaningful problems.
+
 
 
 ## 🌐 Socials:
