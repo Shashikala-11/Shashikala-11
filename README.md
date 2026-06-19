@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Shashikala Gupta, a Data Science student and aspiring AI Engineer who enjoys building intelligent systems from idea to deployment.
+# Hi, I'm Shashikala Gupta 👋
+**Core Focus: Generative AI Pipelines | Agentic Workflows | Full-Stack ML Systems**
+
+An execution-first engineer focused on moving machine learning models out of notebooks and into production workflows. 
+I prioritize clean code architectures, robust data pipelines, and highly responsive system wrappers.
 
 Whether it's training machine learning models, developing AI-powered applications, or creating tools that solve practical challenges, I learn best by building. My projects span agriculture, healthcare, and automation, reflecting my interest in using technology to create measurable real-world impact.
 
