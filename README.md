@@ -11,7 +11,9 @@ I believe the best way to understand a technology is to apply it. That's why I s
 
 My goal is simple: keep learning, keep building, and contribute to technologies that help people solve meaningful problems.
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/linkedin_banner.png" alt="Engineering Banner" width="100%" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shashikala_76175) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashikalagupta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeByAlhiks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashikalagupta.rajesh@gmail.com) 
