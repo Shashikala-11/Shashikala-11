@@ -12,7 +12,7 @@ I believe the best way to understand a technology is to apply it. That's why I s
 My goal is simple: keep learning, keep building, and contribute to technologies that help people solve meaningful problems.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner.png" alt="Engineering Banner" width="90%" />
+  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner.png" alt="Engineering Banner" width="100%" />
 </p>
 
 ## 🌐 Socials:
