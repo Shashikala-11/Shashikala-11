@@ -30,5 +30,6 @@ My goal is simple: keep learning, keep building, and contribute to technologies 
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shashikala-11&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Shashikala-11)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
