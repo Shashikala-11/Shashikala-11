@@ -2,14 +2,9 @@
 ## Hi, I'm Shashikala Gupta 👋
 ## Core Focus: Generative AI Pipelines | Agentic Workflows | Full-Stack ML Systems
 
-An execution-first engineer focused on moving machine learning models out of notebooks and into production workflows. 
-I prioritize clean code architectures, robust data pipelines, and highly responsive system wrappers.
+I'm a developer passionate about Machine Learning, Generative AI, and Backend Engineering, with a strong focus on transforming ideas into practical, user-focused solutions.
 
-Whether it's training machine learning models, developing AI-powered applications, or creating tools that solve practical challenges, I learn best by building. My projects span agriculture, healthcare, and automation, reflecting my interest in using technology to create measurable real-world impact.
-
-I believe the best way to understand a technology is to apply it. That's why I spend much of my time working on projects, participating in hackathons, exploring new AI tools, and continuously improving my development skills.
-
-My goal is simple: keep learning, keep building, and contribute to technologies that help people solve meaningful problems.
+Currently, I'm exploring Generative AI, agentic workflows, and production-ready ML systems while continuously strengthening my foundations in software engineering and data science. I learn best through hands-on projects, hackathons, technical challenges, and building applications that deliver measurable impact.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner.png" alt="Engineering Banner" width="100%" />
@@ -24,7 +19,7 @@ My goal is simple: keep learning, keep building, and contribute to technologies 
   <img src="https://skillicons.dev/icons?i=python,java,javascript,vscode,django,fastapi,flask,mysql,git,github,vercel" />
 </p>
 
-**AI Tools:** Antigravity IDE • Google AI Studio • Kiro
+**🤖 AI Tools:** Antigravity IDE • Google AI Studio • Kiro
 
 
 # 📊 GitHub Stats:
