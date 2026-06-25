@@ -1,5 +1,5 @@
 # Hi, I'm Shashikala Gupta 👋
-## Core Focus: Generative AI Pipelines | Agentic Workflows | Full-Stack ML Systems
+### Core Focus: Generative AI Pipelines | Agentic Workflows | Full-Stack ML Systems
 
 I'm a developer passionate about Machine Learning, Generative AI, and Backend Engineering, with a strong focus on transforming ideas into practical, user-focused solutions.
 
