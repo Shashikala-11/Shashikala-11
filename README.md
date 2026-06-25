@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner (1).png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashikala Gupta</h1>
