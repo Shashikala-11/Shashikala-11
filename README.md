@@ -29,7 +29,7 @@
 - 📊 Building **Machine Learning & Data Science Projects**
 - ⚙️ Developing **Backend Systems with FastAPI & Django**
 - 🌱 Learning **MLOps, Deployment & Scalable Architectures**
-- 🏆 Active in **Hackathons, Challenges & Open Source**
+- 🏆 Active in **Hackathons, Challenges and workshops**
 
 > **Learn → Build → Deploy → Improve**
 
@@ -73,4 +73,3 @@
 <p align="center">
   <i>Turning ideas into practical, user-focused AI solutions.</i>
 </p>
-```
