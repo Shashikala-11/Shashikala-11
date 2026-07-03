@@ -31,7 +31,7 @@ Building intelligent applications that solve real-world problems in Agriculture,
 ## 🚀 About Me
 
 - 🎓 B.E. Computer Engineering (CGPA **9.326/10**)
-- 💼 AI & Data Intern at **Graphura India Pvt. Ltd.**
+- 💼 Former AI & Data Intern at **Graphura India Pvt. Ltd.**
 - 🌱 Former AI & Data Analytics Intern at **Edunet Foundation**
 - 🤖 Exploring **Generative AI, AI Agents, RAG & LLM Applications**
 - 💻 Building AI-powered web applications using **Python, Django, Flask & Streamlit**
