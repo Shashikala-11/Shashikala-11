@@ -41,7 +41,7 @@ Building intelligent applications that solve real-world problems in Agriculture,
 
 ---
 
-# 🏆 Portfolio Achievements
+# 🏆 Achievements
 
 🏆 **AWS ImpactX'25 (IIT Bombay) Finalist**
 
