@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Shashikala Gupta</h1>
 
-<p align="center">
-AI • Machine Learning • Generative AI • Full Stack Development
-</p>
+<h3 align="center">
+Aspiring AI Engineer • Machine Learning • Generative AI • Backend Development
+</h3>
 
 <p align="center">
-Building intelligent applications that solve real-world problems in Agriculture, Healthcare, and Business.
+Building practical AI-powered applications that solve real-world problems in Agriculture, Healthcare, and Business.
 </p>
 
 <p align="center">
@@ -24,18 +24,20 @@ Building intelligent applications that solve real-world problems in Agriculture,
   <a href="https://github.com/Shashikala-11">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Shashikala-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.E. Computer Engineering (CGPA **9.326/10**)
-- 💼 Former AI & Data Intern at **Graphura India Pvt. Ltd.**
-- 🌱 Former AI & Data Analytics Intern at **Edunet Foundation**
+- 💼 Former **AI & Data Intern** at Graphura India Pvt. Ltd.
+- 🌱 Former **AI & Data Analytics Intern** at Edunet Foundation
 - 🤖 Exploring **Generative AI, AI Agents, RAG & LLM Applications**
-- 💻 Building AI-powered web applications using **Python, Django, Flask & Streamlit**
-- 🌾 Passionate about solving real-world problems through AI
+- 💻 Building intelligent applications using **Python, Django, Flask, Streamlit & TensorFlow**
+- 🌾 Interested in AI solutions for **Agriculture, Healthcare and Business Automation**
 
 > **Learn • Build • Deploy • Improve**
 
@@ -43,13 +45,11 @@ Building intelligent applications that solve real-world problems in Agriculture,
 
 # 🏆 Achievements
 
-🏆 **AWS ImpactX'25 (IIT Bombay) Finalist**
+🏆 **AWS ImpactX'25 (IIT Bombay) — Finalist**
 
 🥈 **1st Runner-up — AI/ML Tech Paper & Project Expo**
 
-🚀 **Amazon ML Summer School 2026**
-- Resume & SOP shortlisted for the Final Selection Test
-- **134,000+ registrations → ~31,000 shortlisted**
+🚀 **Amazon ML Summer School 2026** — Resume & SOP shortlisted for the Final Selection Test (**134k+ registrations → ~31k shortlisted**)
 
 🌱 **Shortlisted — GDG AI Hack (Agri-Tech)**
 
@@ -64,36 +64,36 @@ Building intelligent applications that solve real-world problems in Agriculture,
 ### 💻 Graphura India Pvt. Ltd.
 **AI & Data Intern**
 
-- Developed Machine Learning models
-- Built interactive Power BI dashboards
-- Automated PDF data extraction
-- Flask model deployment
-- SEO analytics & keyword research
+- Developed Machine Learning models for predictive analytics.
+- Built interactive Power BI dashboards.
+- Automated data extraction from unstructured PDF documents.
+- Deployed ML models using Flask.
+- Conducted SEO analytics & keyword research.
 
 ### 🌿 Edunet Foundation
-
 **AI & Data Analytics Intern**
 
-- Plant Disease Detection using Deep Learning
-- Streamlit deployment
-- Image Processing
-- AI model integration
+- Developed a Plant Disease Detection system.
+- Built and deployed a Streamlit web application.
+- Worked on Image Processing and AI model integration.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 Kisan AI
+## 🌾 Kisan AI — Smart Crop Advisory Platform
 
-AI-powered Smart Crop Advisory Platform
+- 🌱 Detects **38 crop diseases** using Deep Learning.
+- 🤖 Multilingual AI chatbot for farmer assistance.
+- 🏛 Government scheme recommendations.
+- 📈 Crop spread prediction & advisory.
+- 💰 Mandi price assistance.
 
-- 🌱 Crop Disease Detection
-- 🤖 Multilingual AI Chatbot
-- 📈 Crop Spread Prediction
-- 🏛 Government Scheme Recommendation
-- 💰 Mandi Price Assistance
+**Tech Stack:** LangChain • Llama 3 • TensorFlow • OpenCV • Python
 
-**Tech:** LangChain • Llama 3 • TensorFlow • OpenCV • Python
+🔗 **GitHub:** *(Add Link)*
+
+🌐 **Live Demo:** *(Add Link)*
 
 ---
 
@@ -101,50 +101,48 @@ AI-powered Smart Crop Advisory Platform
 
 AI-powered Boutique Management Platform
 
-- AI Customer Support
+- AI Customer Support Chatbot
 - Django Authentication
-- Responsive Dashboard
-- Product Management
+- Product & Order Management
+- Responsive Admin Dashboard
 
-**Tech:** Django • SQLite • Bootstrap • Dialogflow ES
+**Tech Stack:** Django • Bootstrap • SQLite • Dialogflow ES
+
+🔗 **GitHub:** *(Add Link)*
+
+🌐 **Live Demo:** *(Add Link)*
 
 ---
 
 ## 🍽 Restaurant Name Generator
 
-AI-powered Branding Assistant
+AI-powered Restaurant Branding Assistant
 
-- Restaurant Name Generation
-- Menu Suggestions
-- Streamlit Deployment
+- AI-generated restaurant names
+- Cuisine-specific menu suggestions
+- Real-time Streamlit deployment
 
-**Tech:** LangChain • Groq API • Streamlit
+**Tech Stack:** LangChain • Groq API • Streamlit
+
+🔗 **GitHub:** *(Add Link)*
+
+🌐 **Live Demo:** *(Add Link)*
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,mysql,git,github,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,mysql,git,github,vscode,tensorflow"/>
 </p>
 
 ### 🤖 AI & Data
 
-`LangChain` • `TensorFlow` • `Scikit-learn` • `Pandas`
-
-`NumPy` • `Power BI` • `Groq API`
+`TensorFlow` • `Scikit-learn` • `LangChain` • `Pandas` • `NumPy` • `Power BI` • `Groq API` • `OpenCV`
 
 ### 🛠 Developer Tools
 
-`Google AI Studio`
-
-`Kiro`
-
-`Google Colab`
-
-`Jupyter`
-
-`Git`
+`Google AI Studio` • `Kiro` • `Google Colab` • `Jupyter` • `VS Code`
 
 ---
 
@@ -162,6 +160,14 @@ AI-powered Branding Assistant
 
 ---
 
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shashikala-11&theme=tokyonight&no-frame=true&margin-w=8"/>
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -171,5 +177,5 @@ AI-powered Branding Assistant
 ---
 
 <p align="center">
-<i>"Building practical AI solutions that create real-world impact."</i>
+<i>Building practical AI solutions that create measurable real-world impact.</i>
 </p>
