@@ -91,10 +91,6 @@ Building practical AI-powered applications that solve real-world problems in Agr
 
 **Tech Stack:** LangChain • Llama 3 • TensorFlow • OpenCV • Python
 
-🔗 **GitHub:** *(Add Link)*
-
-🌐 **Live Demo:** *(Add Link)*
-
 ---
 
 ## 👗 Pehnevaah Fashions
@@ -108,9 +104,6 @@ AI-powered Boutique Management Platform
 
 **Tech Stack:** Django • Bootstrap • SQLite • Dialogflow ES
 
-🔗 **GitHub:** *(Add Link)*
-
-🌐 **Live Demo:** *(Add Link)*
 
 ---
 
@@ -123,10 +116,6 @@ AI-powered Restaurant Branding Assistant
 - Real-time Streamlit deployment
 
 **Tech Stack:** LangChain • Groq API • Streamlit
-
-🔗 **GitHub:** *(Add Link)*
-
-🌐 **Live Demo:** *(Add Link)*
 
 ---
 
@@ -160,13 +149,7 @@ AI-powered Restaurant Branding Assistant
 
 ---
 
-# 🏅 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shashikala-11&theme=tokyonight&no-frame=true&margin-w=8"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
