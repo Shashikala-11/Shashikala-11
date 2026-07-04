@@ -1,147 +1,74 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner%20(1).png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner%20(1).png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashikala Gupta</h1>
 
 <h3 align="center">
-Aspiring AI Engineer • Machine Learning • Generative AI • Backend Development
+AI • Machine Learning • Generative AI • Python
 </h3>
 
 <p align="center">
-Building practical AI-powered applications that solve real-world problems in Agriculture, Healthcare, and Business.
+Building AI-powered applications for Agriculture, Healthcare & Business Automation.
 </p>
 
 <p align="center">
-  <a href="mailto:shashikalagupta.rajesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:shashikalagupta.rajesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://linkedin.com/in/shashikalagupta">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/shashikalagupta">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Shashikala-11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/Shashikala-11">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=Shashikala-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Shashikala-11&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Final-year **Computer Engineering** student with **Honours in Data Science**
-- 💼 Former **AI & Data Intern** at **Graphura India Pvt. Ltd.**
-- 🌱 Former **AI & Data Analytics Intern** at **Edunet Foundation**
-- 🤖 Exploring **Generative AI, AI Agents, Retrieval-Augmented Generation (RAG), and LLM-powered applications**
-- 💻 Building end-to-end AI solutions using **Python, Django, Flask, Streamlit, TensorFlow, and FastAPI**
-- 🌾 Passionate about applying AI to solve real-world challenges in **Agriculture, Healthcare, and Business Automation**
-- 📚 Continuously learning **Machine Learning, Deep Learning, Data Science, and Full-Stack AI Development**
-
-> **Learn • Build • Deploy • Improve**
+- 🎓 Final-year Computer Engineering student (Honours in Data Science)
+- 💼 Former AI & Data Intern @ Graphura India Pvt. Ltd.
+- 🌱 Former AI & Data Analytics Intern @ Edunet Foundation
+- 🤖 Exploring Generative AI, AI Agents, RAG & LLM Applications
 
 ---
 
-# 🏆 Achievements
+## 🚀 Featured Projects
 
-🏆 **AWS ImpactX'25 (IIT Bombay) — Finalist**
-
-🥈 **1st Runner-up — AI/ML Tech Paper & Project Expo**
-
-🚀 **Amazon ML Summer School 2026** — Resume & SOP shortlisted for the Final Selection Test (**134k+ registrations → ~31k shortlisted**)
-
-🌱 **Shortlisted — GDG AI Hack (Agri-Tech)**
-
-🥇 **Ranked 1st (Second Year)**
-
-🥈 **Ranked 2nd (First Year)**
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌾 **Kisan AI** | AI-powered crop disease detection & advisory platform | TensorFlow • LangChain • Streamlit |
+| 👗 **Pehnevaah Fashions** | AI-enabled boutique management system | Django • Bootstrap • SQLite |
+| 🍽 **Restaurant Name Generator** | LLM-powered branding assistant | LangChain • Groq API • Streamlit |
 
 ---
 
-# 💼 Experience
-
-### 💻 Graphura India Pvt. Ltd.
-**AI & Data Intern**
-
-- Developed Machine Learning models for predictive analytics.
-- Built interactive Power BI dashboards.
-- Automated data extraction from unstructured PDF documents.
-- Deployed ML models using Flask.
-- Conducted SEO analytics & keyword research.
-
-### 🌿 Edunet Foundation
-**AI & Data Analytics Intern**
-
-- Developed a Plant Disease Detection system.
-- Built and deployed a Streamlit web application.
-- Worked on Image Processing and AI model integration.
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 Kisan AI — Smart Crop Advisory Platform
-
-- 🌱 Detects **38 crop diseases** using Deep Learning.
-- 🤖 Multilingual AI chatbot for farmer assistance.
-- 🏛 Government scheme recommendations.
-- 📈 Crop spread prediction & advisory.
-- 💰 Mandi price assistance.
-
-**Tech Stack:** LangChain • Llama 3 • TensorFlow • OpenCV • Python
-
----
-
-## 👗 Pehnevaah Fashions
-
-AI-powered Boutique Management Platform
-
-- AI Customer Support Chatbot
-- Django Authentication
-- Product & Order Management
-- Responsive Admin Dashboard
-
-**Tech Stack:** Django • Bootstrap • SQLite • Dialogflow ES
-
-
----
-
-## 🍽 Restaurant Name Generator
-
-AI-powered Restaurant Branding Assistant
-
-- AI-generated restaurant names
-- Cuisine-specific menu suggestions
-- Real-time Streamlit deployment
-
-**Tech Stack:** LangChain • Groq API • Streamlit
-
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,mysql,git,github,vscode,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,fastapi,react,mysql,git,github,tensorflow,vscode"/>
 </p>
 
-### 🤖 AI & Data
+<p align="center">
 
-`TensorFlow` • `Scikit-learn` • `LangChain` • `Pandas` • `NumPy` • `Power BI` • `Groq API` • `OpenCV`
+`LangChain` • `Scikit-learn` • `OpenCV` • `Pandas` • `NumPy` • `Power BI`
 
-### 🛠 Developer Tools
-
-`Google AI Studio` • `Kiro` • `Google Colab` • `Jupyter` • `VS Code`
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="YOUR_GITHUB_STATS_URL"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="YOUR_TOP_LANGUAGES_URL"/>
 </p>
 
 <p align="center">
@@ -150,9 +77,7 @@ AI-powered Restaurant Branding Assistant
 
 ---
 
-
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&theme=tokyo-night&hide_border=true"/>
@@ -161,5 +86,5 @@ AI-powered Restaurant Branding Assistant
 ---
 
 <p align="center">
-<i>Building practical AI solutions that create measurable real-world impact.</i>
+<i>Always learning • Always building</i>
 </p>
