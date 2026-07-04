@@ -39,16 +39,6 @@ Building AI-powered applications for Agriculture, Healthcare & Business Automati
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌾 **Kisan AI** | AI-powered crop disease detection & advisory platform | TensorFlow • LangChain • Streamlit |
-| 👗 **Pehnevaah Fashions** | AI-enabled boutique management system | Django • Bootstrap • SQLite |
-| 🍽 **Restaurant Name Generator** | LLM-powered branding assistant | LangChain • Groq API • Streamlit |
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -66,24 +56,14 @@ Building AI-powered applications for Agriculture, Healthcare & Business Automati
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="YOUR_GITHUB_STATS_URL"/>
-
-<img height="170" src="YOUR_TOP_LANGUAGES_URL"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Shashikala-11&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
 <i>Always learning • Always building</i>
