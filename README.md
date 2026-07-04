@@ -32,12 +32,13 @@ Building practical AI-powered applications that solve real-world problems in Agr
 
 # 🚀 About Me
 
-- 🎓 B.E. Computer Engineering (CGPA **9.326/10**)
-- 💼 Former **AI & Data Intern** at Graphura India Pvt. Ltd.
-- 🌱 Former **AI & Data Analytics Intern** at Edunet Foundation
-- 🤖 Exploring **Generative AI, AI Agents, RAG & LLM Applications**
-- 💻 Building intelligent applications using **Python, Django, Flask, Streamlit & TensorFlow**
-- 🌾 Interested in AI solutions for **Agriculture, Healthcare and Business Automation**
+- 🎓 Final-year **Computer Engineering** student with **Honours in Data Science**
+- 💼 Former **AI & Data Intern** at **Graphura India Pvt. Ltd.**
+- 🌱 Former **AI & Data Analytics Intern** at **Edunet Foundation**
+- 🤖 Exploring **Generative AI, AI Agents, Retrieval-Augmented Generation (RAG), and LLM-powered applications**
+- 💻 Building end-to-end AI solutions using **Python, Django, Flask, Streamlit, TensorFlow, and FastAPI**
+- 🌾 Passionate about applying AI to solve real-world challenges in **Agriculture, Healthcare, and Business Automation**
+- 📚 Continuously learning **Machine Learning, Deep Learning, Data Science, and Full-Stack AI Development**
 
 > **Learn • Build • Deploy • Improve**
 
