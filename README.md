@@ -36,7 +36,7 @@ Building AI-powered applications for Agriculture, Healthcare & Business Automati
 - 💼 Former AI & Data Intern @ Graphura India Pvt. Ltd.
 - 🌱 Former AI & Data Analytics Intern @ Edunet Foundation
 - 🤖 Exploring Generative AI, AI Agents, RAG & LLM Applications
-- 🤝 Open to collaborating on AI, GenAI, and hackathon projects.
+- 🤝 I'm Looking to collaborate on Hackathon.
 
 ---
 
