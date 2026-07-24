@@ -43,13 +43,16 @@ Building AI-powered applications for Agriculture, Healthcare & Business Automati
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,fastapi,react,mysql,git,github,tensorflow,vscode"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,fastapi,react,mysql,git,github,vscode"/>
+<!-- </p>
 
-<p align="center">
-
-`LangChain` • `Scikit-learn` • `OpenCV` • `Pandas` • `NumPy` • `Power BI`
-
+<p align="center"> -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/>
 </p>
 
 ---
