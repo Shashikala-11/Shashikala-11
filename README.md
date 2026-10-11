@@ -43,7 +43,7 @@ Building AI-powered applications for Agriculture, Healthcare & Business Automati
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,flask,fastapi,react,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,django,azure,flask,fastapi,react,mysql,git,github,vscode"/>
 <!-- </p>
 
 <p align="center"> -->
