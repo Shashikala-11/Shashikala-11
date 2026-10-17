@@ -118,15 +118,12 @@ Structured training in Python, SQL, Data Science, programming fundamentals, and 
 
 ### `RECOGNITION`
 
-- **1st rank** — Second Year Computer Engineering
-- **2nd rank** — First Year across branches
-- **10.0 SGPA** — Third Year
 - **Winner** — SIH Internal Hackathon, Theem, 2025
-- **1st Runner-up** — Project Exhibition, 2025
+- **1st Runner-up** — Project Exhibition (2025) & Technical Paper Presentation (2026) Organized at Theem College of Engineering
 - **Finalist** — AWS ImpactX, 2025
 - **Top 10** — NetZero Challenge, IIT Gandhinagar
-- **Round 2** — Flipkart GRiD 8.0
-- **Shortlisted** — GDG Cloud Mumbai AI Hackathon 2.0
+- **Round 2** — Flipkart GRiD 8.0, Amazon ML Summer School 2026
+- **Shortlisted for Round 2** — Hack The Flame 2025
 
 ---
 
