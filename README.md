@@ -7,7 +7,7 @@
 </p>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=I'm+Shashikala+Gupta" alt="Shashikala Gupta"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=00FF29&center=true&vCenter=true&width=600&height=50&lines=I'm+Shashikala+Gupta" alt="Shashikala Gupta"/>
 
 **AI & Data Science · Python · Backend Development**
 
@@ -57,7 +57,7 @@ Git · Docker · Azure · Jupyter Notebook
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=donut&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=00FF29" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=donut&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=00FF29" alt="Most used languages"/>
 
 <br/><br/>
 
