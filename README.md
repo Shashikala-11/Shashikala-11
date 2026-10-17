@@ -1,128 +1,147 @@
- <div align="center">
 
-# SHASHIKALA GUPTA
+<div align="center">
 
-**AI & Data Science · Python · Applied Machine Learning**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Shashikala+Gupta" alt="Shashikala Gupta"/>
 
-<img src="https://raw.githubusercontent.com/Shashikala-11/Shashikala-11/main/banner%20(1).png" width="100%" alt="Shashikala Gupta — AI, Data Science and Python"/>
+**AI & Data Science · Python · Backend Development**
 
-Building practical software with Python, machine learning, and generative AI.
+Building practical applications with machine learning and generative AI.
 
-[LinkedIn](https://www.linkedin.com/in/shashikalagupta/) &nbsp;·&nbsp; [GitHub](https://github.com/Shashikala-11) &nbsp;·&nbsp; [Email](mailto:shashikalagupta.rajesh@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashikalagupta/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shashikalagupta.rajesh@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="35" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shashikala-11">
+    <img src="https://skillicons.dev/icons?i=github" width="35" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## PROFILE
+### `ABOUT`
 
-Computer Engineering at Theem College of Engineering, University of Mumbai · **9.4/10 CGPA** · Honours in Data Science.
+Computer Engineering at Theem College of Engineering, University of Mumbai, with an Honours specialization in Data Science and a **9.4/10 CGPA**.
 
-My work spans machine learning, data analytics, Python backend development, and LLM-powered applications. I have contributed to AI and data projects, led an internship team, and built prototypes through hackathons and independent development.
+Currently training in Python and Data Science through **QSpiders Campus Connect**. Interested in machine learning, Python backend systems, LLM applications, and turning prototypes into working software.
 
-Currently strengthening Python problem-solving and Data Science fundamentals through **QSpiders Campus Connect** while developing backend and AI projects.
-
-## TECHNOLOGY
+### `TECHNOLOGIES`
 
 <div align="center">
 
-| DOMAIN | TOOLKIT |
-|:---:|:---|
-| **Languages** | Python · SQL · C · Java · JavaScript |
-| **Data** | Pandas · NumPy · Power BI · Data Visualization |
-| **Machine Learning** | Scikit-learn · TensorFlow · MobileNetV2 · OpenCV |
-| **Generative AI** | LangChain · Groq · Llama · RAG · ChromaDB |
-| **Backend & Web** | Django · Flask · FastAPI · Streamlit · React |
-| **Databases** | PostgreSQL · MySQL · SQLite |
-| **Engineering Tools** | Git · GitHub · Docker · Azure · Jupyter |
+<img src="https://skillicons.dev/icons?i=python,c,java,js,django,flask,fastapi,react,postgres,mysql,git,github,docker,azure&theme=dark&perline=7" alt="Technology stack"/>
 
 </div>
 
-## SELECTED PROJECTS
+**Data & ML**  
+Pandas · NumPy · Scikit-learn · TensorFlow · OpenCV · Power BI
 
-### 01 / FactoryOS
-**Factory Quality Management System** · *In development*
+**Generative AI**  
+LangChain · Groq · Llama · RAG · ChromaDB
+
+**Backend & Databases**  
+Django · Flask · FastAPI · PostgreSQL · MySQL · SQLite
+
+**Tools**  
+Git · Docker · Azure · Jupyter Notebook
+
+---
+
+### `PROJECTS`
+
+**01 — FactoryOS**  
+*Factory Quality Management System*
 
 `Django` `PostgreSQL` `React`
 
-Building a factory operations and quality management application from a product requirements document. Implemented a custom user model, authentication endpoint, and role-based permissions as part of the initial backend milestones.
+Developing a quality management application from a product requirements document. Initial backend milestones include a custom user model, authentication, and role-based permissions.
 
-[Repository](https://github.com/Shashikala-11/FactoryOS)
+[Repository →](https://github.com/Shashikala-11/FactoryOS)
 
-### 02 / KisanAI
-**Smart Agricultural Assistance**
+**02 — KisanAI**  
+*Smart Agricultural Assistance*
 
-`Python` `LangChain` `Groq` `ChromaDB` `TensorFlow`
+`LangChain` `Groq` `ChromaDB` `TensorFlow`
 
-An agricultural assistance concept combining a multilingual LLM-based assistant with crop disease classification. Integrates a MobileNetV2 model for 38 disease classes and explores retrieval-augmented generation for agricultural information.
+Combines multilingual AI assistance with a MobileNetV2 crop disease classifier covering 38 disease classes. Explores retrieval-augmented generation for agricultural information.
 
-[Explore repositories](https://github.com/Shashikala-11?tab=repositories)
+[Browse repositories →](https://github.com/Shashikala-11?tab=repositories)
 
-### 03 / FarmAI
-**Agricultural Intelligence Platform**
+**03 — FarmAI**  
+*Agricultural Intelligence Platform*
 
-`Flask` `Python` `CNN` `Scikit-learn` `MySQL`
+`Flask` `CNN` `Scikit-learn` `MySQL`
 
-Combines plant disease prediction and crop recommendations based on soil nutrients and environmental conditions. Includes agricultural information and chatbot functionality.
+Plant disease prediction and crop recommendations using agricultural and environmental inputs, with integrated agricultural information and chatbot functionality.
 
-[Source code](https://github.com/Shashikala-G14/Farm-AI)
+[Source code →](https://github.com/Shashikala-G14/Farm-AI)
 
-### 04 / SURAKSHAK
-**Multi-Robot Search & Rescue Simulation**
+**04 — SURAKSHAK**  
+*Multi-Robot Search & Rescue*
 
-`ROS 2` `Gazebo` `FastAPI` `WebSocket` `React`
+`ROS 2` `Gazebo` `FastAPI` `React`
 
-Exploring coordinated rescue missions involving four UAVs and one UGV, with task allocation, robotics simulation, backend communication, and a mission-control dashboard.
+A rescue simulation exploring coordination between UAVs and a UGV, task allocation, backend communication, and a mission-control dashboard.
 
-[Project details](https://github.com/Shashikala-11?tab=repositories)
+[Browse repositories →](https://github.com/Shashikala-11?tab=repositories)
 
-## EXPERIENCE
+---
 
-**Graphura India Pvt. Ltd.** — *Team Lead, Data & Artificial Intelligence*  
+### `EXPERIENCE`
+
+**Graphura India Pvt. Ltd.** · *Team Lead — Data & Artificial Intelligence*  
 `Feb 2026 – May 2026`
 
-Led a team of seven interns across AI and data initiatives. Worked on machine learning models, Flask-based deployment, resume scoring, data extraction, cleaning, and Power BI dashboards.
+Led seven interns across AI and data initiatives. Worked on machine learning models, Flask deployment, resume scoring, data extraction, cleaning, and Power BI dashboards.
 
-**Edunet Foundation** — *AI & Data Analytics Intern*  
+**Edunet Foundation** · *AI & Data Analytics Intern*  
 `Dec 2024 – Jan 2025`
 
-Developed a plant disease detection application using MobileNetV2 transfer learning and deployed the model using Streamlit.
+Built a plant disease detection application using MobileNetV2 transfer learning and deployed it with Streamlit.
 
-**QSpiders Campus Connect** — *Python with Data Science Trainee*  
+**QSpiders Campus Connect** · *Python with Data Science Trainee*  
 `Aug 2026 – Present`
 
-Undertaking structured training in Python, SQL, Data Science, programming fundamentals, and practical problem-solving.
+Structured training in Python, SQL, Data Science, programming fundamentals, and practical problem-solving.
 
-## RECOGNITION
+### `RECOGNITION`
 
 - **1st rank** — Second Year Computer Engineering
 - **2nd rank** — First Year across branches
 - **10.0 SGPA** — Third Year
 - **Winner** — SIH Internal Hackathon, Theem, 2025
-- **1st Runner-up** — Project Exhibition, 2025; plant disease classification
+- **1st Runner-up** — Project Exhibition, 2025
 - **Finalist** — AWS ImpactX, 2025
 - **Top 10** — NetZero Challenge, IIT Gandhinagar
 - **Round 2** — Flipkart GRiD 8.0
 - **Shortlisted** — GDG Cloud Mumbai AI Hackathon 2.0
 
-## GITHUB ANALYTICS
+---
+
+### `GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=BC8CFF&text_color=C9D1D9" height="170" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=donut&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&langs_count=5" height="170" alt="Top programming languages"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&bg_color=0D1117&color=79C0FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
 
-<img src="https://streak-stats.demolab.com/?user=Shashikala-11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=79C0FF&fire=BC8CFF&currStreakLabel=79C0FF" width="100%" alt="GitHub contribution streak"/>
+<br/>
+
+<img width="55%" src="https://streak-stats.demolab.com/?user=Shashikala-11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" alt="Contribution streak"/>
 
 </div>
 
----
-
 <div align="center">
 
-*Engineering ideas into working software.*
+<sub>LEARN · BUILD · ITERATE</sub>
 
 </div>
