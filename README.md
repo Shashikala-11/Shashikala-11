@@ -31,12 +31,6 @@ Building practical applications with machine learning and generative AI.
 
 ---
 
-### `ABOUT`
-
-Computer Engineering at Theem College of Engineering, University of Mumbai, with an Honours specialization in Data Science and a **9.4/10 CGPA**.
-
-Currently training in Python and Data Science through **QSpiders Campus Connect**. Interested in machine learning, Python backend systems, LLM applications, and turning prototypes into working software.
-
 ### `TECHNOLOGIES`
 
 <div align="center">
