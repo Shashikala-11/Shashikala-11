@@ -53,6 +53,30 @@ Git · Docker · Azure · Jupyter Notebook
 
 ---
 
+### `GITHUB ACTIVITY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=donut&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+
+<br/>
+
+<img width="55%" src="https://streak-stats.demolab.com/?user=Shashikala-11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" alt="Contribution streak"/>
+
+</div>
+
+<div align="center">
+
+<sub>LEARN · BUILD · ITERATE</sub>
+
+</div>
+
+---
+
 ### `PROJECTS`
 
 **01 — FactoryOS**  
@@ -121,24 +145,3 @@ Structured training in Python, SQL, Data Science, programming fundamentals, and 
 
 ---
 
-### `GITHUB ACTIVITY`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashikala-11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikala-11&layout=donut&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
-
-<br/>
-
-<img width="55%" src="https://streak-stats.demolab.com/?user=Shashikala-11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" alt="Contribution streak"/>
-
-</div>
-
-<div align="center">
-
-<sub>LEARN · BUILD · ITERATE</sub>
-
-</div>
