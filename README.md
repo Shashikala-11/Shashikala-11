@@ -77,23 +77,6 @@ Git · Docker · Azure · Jupyter Notebook
 
 ---
 
-### `EXPERIENCE`
-
-**Graphura India Pvt. Ltd.** · *Team Lead — Data & Artificial Intelligence*  
-`Feb 2026 – May 2026`
-
-Led seven interns across AI and data initiatives. Worked on machine learning models, Flask deployment, resume scoring, data extraction, cleaning, and Power BI dashboards.
-
-**Edunet Foundation** · *AI & Data Analytics Intern*  
-`Dec 2024 – Jan 2025`
-
-Built a plant disease detection application using MobileNetV2 transfer learning and deployed it with Streamlit.
-
-**QSpiders Campus Connect** · *Python with Data Science Trainee*  
-`Aug 2026 – Present`
-
-Structured training in Python, SQL, Data Science, programming fundamentals, and practical problem-solving.
-
 ### `RECOGNITION`
 
 - **Winner** — SIH Internal Hackathon, Theem, 2025
