@@ -72,8 +72,9 @@ Building practical applications with machine learning and generative AI.
 - **1st Runner-up** — Project Exhibition (2025) & Technical Paper Presentation (2026) Organized at Theem College of Engineering
 - **Finalist** — AWS ImpactX, 2025
 - **Top 10** — NetZero Challenge, IIT Gandhinagar
-- **Round 2** — Flipkart GRiD 8.0, Amazon ML Summer School 2026
+- **Shortlisted for Round 2** — Flipkart GRiD 8.0, Amazon ML Summer School 2026
 - **Shortlisted for Round 2** — Hack The Flame 2025
+-  **Participated in 10+ National & International Level Hackathons** 
 
 ---
 
