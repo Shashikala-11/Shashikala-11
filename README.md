@@ -77,46 +77,6 @@ Git · Docker · Azure · Jupyter Notebook
 
 ---
 
-### `PROJECTS`
-
-**01 — FactoryOS**  
-*Factory Quality Management System*
-
-`Django` `PostgreSQL` `React`
-
-Developing a quality management application from a product requirements document. Initial backend milestones include a custom user model, authentication, and role-based permissions.
-
-[Repository →](https://github.com/Shashikala-11/FactoryOS)
-
-**02 — KisanAI**  
-*Smart Agricultural Assistance*
-
-`LangChain` `Groq` `ChromaDB` `TensorFlow`
-
-Combines multilingual AI assistance with a MobileNetV2 crop disease classifier covering 38 disease classes. Explores retrieval-augmented generation for agricultural information.
-
-[Browse repositories →](https://github.com/Shashikala-11?tab=repositories)
-
-**03 — FarmAI**  
-*Agricultural Intelligence Platform*
-
-`Flask` `CNN` `Scikit-learn` `MySQL`
-
-Plant disease prediction and crop recommendations using agricultural and environmental inputs, with integrated agricultural information and chatbot functionality.
-
-[Source code →](https://github.com/Shashikala-G14/Farm-AI)
-
-**04 — SURAKSHAK**  
-*Multi-Robot Search & Rescue*
-
-`ROS 2` `Gazebo` `FastAPI` `React`
-
-A rescue simulation exploring coordination between UAVs and a UGV, task allocation, backend communication, and a mission-control dashboard.
-
-[Browse repositories →](https://github.com/Shashikala-11?tab=repositories)
-
----
-
 ### `EXPERIENCE`
 
 **Graphura India Pvt. Ltd.** · *Team Lead — Data & Artificial Intelligence*  
