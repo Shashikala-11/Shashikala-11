@@ -39,17 +39,6 @@ Building practical applications with machine learning and generative AI.
 
 </div>
 
-**Data & ML**  
-Pandas · NumPy · Scikit-learn · TensorFlow · OpenCV · Power BI
-
-**Generative AI**  
-LangChain · Groq · Llama · RAG · ChromaDB
-
-**Backend & Databases**  
-Django · Flask · FastAPI · PostgreSQL · MySQL · SQLite
-
-**Tools**  
-Git · Docker · Azure · Jupyter Notebook
 
 ---
 
