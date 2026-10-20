@@ -74,6 +74,7 @@ Building practical applications with machine learning and generative AI.
 - **Top 10** — NetZero Challenge, IIT Gandhinagar
 - **Shortlisted for Round 2** — Flipkart GRiD 8.0, Amazon ML Summer School 2026
 - **Shortlisted for Round 2** — Hack The Flame 2025
+- **Shortlisted for Round 2** - HerSpark Ideathon 2025
 -  **Participated in 10+ National & International Level Hackathons** 
 
 ---
