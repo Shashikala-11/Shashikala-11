@@ -50,11 +50,20 @@ Building practical applications with machine learning and generative AI.
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikala-11&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+
 
 <br/>
 
-<img width="55%" src="https://streak-stats.demolab.com/?user=Shashikala-11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF" alt="Contribution streak"/>
+<img width="55%" src="https://streak-stats.demolab.com/?user=Shashikala-11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution streak"/>
 
 </div>
 
