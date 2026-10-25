@@ -66,7 +66,16 @@ Building practical applications with machine learning and generative AI.
 
 ---
 
-### `RECOGNITION`
+
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:7C3AED&height=110&section=header&text=%20RECOGNITION&fontSize=38&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Recognition"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Hackathon+Winner+%F0%9F%8F%86;National+Level+Competition+Finalist+%F0%9F%9A%80;Building.+Competing.+Learning.+Growing." alt="Animated recognition text"/>
+</p>
 
 - **Winner** — SIH Internal Hackathon, Theem, 2025
 - **1st Runner-up** — Project Exhibition (2025) & Technical Paper Presentation (2026) Organized at Theem College of Engineering
@@ -75,7 +84,14 @@ Building practical applications with machine learning and generative AI.
 - **Shortlisted for Round 2** — Flipkart GRiD 8.0, Amazon ML Summer School 2026
 - **Shortlisted for Round 2** — Hack The Flame 2025
 - **Shortlisted for Round 2** - HerSpark Ideathon 2025
--  **Participated in 10 + National & International Level Hackathons** 
+-  **Participated in 10 + National & International Level Hackathons**
+
+
+
+---
+
+
+
 
 ---
 
