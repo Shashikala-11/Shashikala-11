@@ -50,8 +50,6 @@ Building practical applications with machine learning and generative AI.
 </div>
 
 
-
-
 ---
 
 ### `GITHUB ACTIVITY`
