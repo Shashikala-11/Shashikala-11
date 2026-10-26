@@ -31,13 +31,25 @@ Building practical applications with machine learning and generative AI.
 
 ---
 
-### `TECHNOLOGIES`
+
+### TECHNOLOGIES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,django,flask,fastapi,react,postgres,mysql,git,github,docker,azure&theme=dark&perline=7" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,django,flask,fastapi,react,postgres,mysql,git,github,docker,azure&theme=dark&perline=7" alt="Technology stack"/>
+<br>
+
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" alt="Databricks"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="45" alt="MLflow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dialogflow/FF9800" height="45" alt="Dialogflow"/>
+  &nbsp;&nbsp;
+ 
 
 </div>
+
+
 
 
 ---
