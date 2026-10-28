@@ -36,7 +36,7 @@ Building practical applications with machine learning and generative AI.
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,django,flask,fastapi,react,postgres,mysql,git,github,docker,azure&theme=dark&perline=7" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,django,flask,fastapi,react,postgres,git,github,docker,azure,java,mysql,sqlite,vscode,sklearn,opencv,linux&theme=dark&perline=7" alt="Technology stack"/>
 <br>
 
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" alt="Databricks"/>
